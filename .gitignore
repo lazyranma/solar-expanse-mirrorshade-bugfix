@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# IDE and editor
+.vs/
+.vscode/
+*.csproj.user
+*.user
+*.suo
+*.sln.docstates
+*.zed
+
+# Local environment
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+.nuget/
+*.nupkg
+*.snupkg
+packages/
+
+# Rider
+.idea/
+*.iml
+
+# Other
+.cache/
